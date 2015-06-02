@@ -7,7 +7,11 @@ FlotCharts : https://github.com/flot/flot (Base + plugin Categories)
 
 ## Server side
 
-* Needed : bash script to generate result file
+* Needed : bash script to generate result file with cron job :
+```
+*/15 * * * * /path/monitjson.sh
+```
+
 * Optional : .htaccess to restrict HTTP_USER_AGENT
 
 ## Screenshot
