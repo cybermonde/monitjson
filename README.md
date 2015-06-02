@@ -13,3 +13,7 @@ FlotCharts : https://github.com/flot/flot (Base + plugin Categories)
 ## Screenshot
 
 ![monitjson](https://raw.githubusercontent.com/cybermonde/monitjson/master/screenshot.png "monitjson")
+
+## Credits
+
+Logo : https://thenounproject.com/term/pulse/49044
